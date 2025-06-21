@@ -1,22 +1,23 @@
-## Olá! Eu sou o AndradeTK 🖐️
+### Olá, mundo! 🌎
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andradetk/)](https://www.linkedin.com/in/andradetk/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/andradetk/)](https://github.com/andradetk/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/euandradekkj)](https://www.instagram.com/euandradekkj) ![](https://komarev.com/ghpvc/?username=andradetk)
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andradeusp)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/andradetk)
+<p align="left"> 
+Olá, sou um estudante de Informática para Internet no IFSP, com forte interesse em desenvolvimento Front-End. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, Java e Git, e estou constantemente evoluindo em Node.js, Express e práticas de versionamento de código.
 
-![AndradeTK GitHub stats](https://github-readme-stats.vercel.app/api?username=andradetk&show_icons=true&theme=dracula&count_private=true)
+Gosto de unir tecnologia e solução de problemas reais, e estou sempre em busca de novos aprendizados que me aproximem do mercado de tecnologia e inovação. Atualmente, busco oportunidades como Desenvolvedor Júnior e Estagiário de TI, onde eu possa crescer, contribuir e desenvolver soluções com impacto. <br>
 
-## Tecnologias que eu uso no meu dia
+<hr>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+<p>👨‍💻 Estagiário no <a href="https://www.tjsp.jus.br/" target="blank_">TJSP</a>.</p>
+<p>🎓 Estudante de Informática para Internet no <a href="https://slt.ifsp.edu.br/" target="blank_">IFSP Salto</a></p>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+<hr>
 
-### Empresa atual:
-- [Rede Alone - Minecraft Server](https://discord.gg/redealone)<br/>
+### My skills: <br/> <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,postgresql,mysql,nodejs,express,github)](https://skillicons.dev)
 
+<hr>
+ 
+<img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /> <br>
+<img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" />

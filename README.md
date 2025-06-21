@@ -19,5 +19,5 @@ Gosto de unir tecnologia e solução de problemas reais, e estou sempre em busca
 
 <hr>
  
-<img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /> <br>
-<img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" />
+<img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andradetk&layout=compact&count_private=true&langs_count=8" /> <br>
+<img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andradetk&show_icons=true&count_private=true" />
